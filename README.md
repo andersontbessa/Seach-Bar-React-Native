@@ -1,2 +1,2 @@
-# Seach-Bar-React-Native
+# Search-Bar-React-Native
 JavaScript
